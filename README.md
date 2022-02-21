@@ -9,11 +9,9 @@
 
 ### **Connect with me:**
 <p align="left">
-<a href="https://twitter.com/a" target="blank"><img style="padding-right:5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/a" target="blank"><img style="padding-right:5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
-<a href="https://fb.com/a" target="blank"><img style="padding-right:5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a" height="30" width="40" /></a>
-<a href="https://instagram.com/a" target="blank"><img style="padding-right:5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
-<a href="https://discord.gg/a" target="blank"><img style="padding-right:5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-alejandro-leon-ortiz-17b038225/" target="blank"><img style="padding-right:5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
+<a href="https://www.facebook.com/danielalejandro.leonortiz/" target="blank"><img style="padding-right:5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a" height="30" width="40" /></a>
+<a href="https://www.instagram.com/danielitou001/" target="blank"><img style="padding-right:5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
 </p>
 
 ### **Languajes and tools:**
